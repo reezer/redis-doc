@@ -241,6 +241,14 @@
     "description": "An asynchronous redis client using the Danga::Socket async library",
     "authors": ["martinredmond"]
   },
+  
+  {
+    "name": "Redis",
+    "language": "Perl 6",
+    "url": "https://github.com/Cofyc/perl6-redis/",
+    "description": "AA Perl6 binding for Redis",
+    "authors": ["Yecheng Fu"]
+  },
 
   {
     "name": "Predis",
